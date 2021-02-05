@@ -19,7 +19,7 @@ public class Aplicacao {
 		}
 		
 		Livro livro = new Livro();
-		livro.setNome("Git passo-a-passo");
+		livro.setNome("Rest Aplicado");
 		livro.setEditora("Algaworks");
 		
 		SimpleDateFormat publicacao = new SimpleDateFormat("dd/MM/yyyy");
